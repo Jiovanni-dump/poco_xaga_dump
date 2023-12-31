@@ -1,0 +1,13 @@
+vendor/lib64/mt6895/libaibc_tuning.so.xz
+product/data-app/Opera/Opera.apk.xz
+product/data-app/MicrosoftOneDrive/MicrosoftOneDrive.apk.xz
+product/data-app/MIBrowserGlobal_removable/MIBrowserGlobal_removable.apk.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/Messages/Messages.apk.xz
+product/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk.xz
+product/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk.xz
+product/priv-app/Velvet/Velvet.apk.xz
+system_ext/apex/com.android.vndk.v30.apex.xz
+system_ext/priv-app/Settings/Settings.apk.xz
