@@ -1,0 +1,14 @@
+# missi_phone_global-user 14 UP1A.231005.007 OS2.0.3.0.ULOMIXM release-keys
+- manufacturer: xiaomi
+- platform: common
+- codename: xaga
+- flavor: missi_phone_global-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: OS2.0.3.0.ULOMIXM
+- tags: release-keys
+- fingerprint: Redmi/xagaproin/xagaproin:12/SP1A.210812.016/OS2.0.3.0.ULOMIXM:user/release-keys
+- is_ab: true
+- brand: POCO
+- branch: missi_phone_global-user-14-UP1A.231005.007-OS2.0.3.0.ULOMIXM-release-keys
+- repo: poco_xaga_dump

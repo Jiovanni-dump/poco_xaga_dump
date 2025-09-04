@@ -1,0 +1,17 @@
+product/data-app/MicrosoftOneDrive/MicrosoftOneDrive.apk.xz
+system_ext/apex/com.android.vndk.v30.apex.xz
+system_ext/priv-app/Settings/Settings.apk.xz
+mi_ext/product/priv-app/Messages_arm64_xxhdpi/Messages_arm64_xxhdpi.apk.xz
+product/data-app/Photos/Photos.apk.xz
+product/app/YouTube/YouTube.apk.xz
+product/data-app/MIBrowserGlobal_removable/MIBrowserGlobal_removable.apk.xz
+product/app/MIUIThemeManagerGlobal/MIUIThemeManagerGlobal.apk.xz
+product/app/Gmail2/Gmail2.apk.xz
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk.xz
+product/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk.xz
+product/priv-app/Velvet/Velvet.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+vendor/lib64/mt6895/libaibc_tuning.so.xz
+product/priv-app/MIUIAICR/MIUIAICR.apk.xz
